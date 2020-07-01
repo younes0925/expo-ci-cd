@@ -1,6 +1,5 @@
-// .github/workflows/production.yml
+name: "Expo Publish on Production"
 
-name: Expo Publish on Production
 on:
   push:
     branches:
